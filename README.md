@@ -1,4 +1,4 @@
-# Rapid_morphological_divergence
+# Custom scripts
 
 This repository contains custom R scripts used in the following manuscript:
 Sendell-Price, A.T., Ruegg, K. C. & Clegg, S.M. (in review) Rapid morphological divergence following a human-mediated introduction: The role of drift and selection.
